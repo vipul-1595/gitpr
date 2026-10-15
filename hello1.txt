@@ -1,1 +1,2 @@
-thi is the first line of git demo
+this is the first line of git demo.
+this is the second line happy durga pooja.
